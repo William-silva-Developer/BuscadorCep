@@ -1,4 +1,4 @@
-export interface Cep {
+export interface CEP {
   cep: string;
         logradouro: string;
         complemento: string;
